@@ -1,0 +1,21 @@
+table {
+  max-width: 792px;
+}
+
+#plant-list-container {
+  margin-left: 97px;
+  margin-right: 97px;
+  margin-top: 14px;
+}
+
+h1 {
+  margin-bottom: 25px;
+}
+
+#first-hr {
+  margin-bottom: 37px;
+}
+
+#second-hr {
+  margin-bottom: 20px;
+}

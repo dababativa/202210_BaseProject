@@ -1,3 +1,11 @@
 * [lang^=en] {
   color: green;
 }
+
+#footer {
+  display: flex;
+  position: absolute;
+  justify-content: center;
+  bottom: 40px;
+  width: 100%;
+}
